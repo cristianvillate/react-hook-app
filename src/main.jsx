@@ -7,6 +7,7 @@ import { Padre } from './07-tarea-memo/Padre';
 //import { SimpleForm } from './02-useEffect/SimpleForm';
 //import { CounterApp } from './01-useState/CounterApp';
 //import { HooksApp } from './HooksApp';
+import "./08-useReducer/intro-reducer";
 
 import './index.css'
 
