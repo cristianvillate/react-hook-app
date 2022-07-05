@@ -1,0 +1,43 @@
+[33mcommit 2180193ff33a0527aeb1254568483ca5b369b5e5[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: cristian villate <cristian_17v@hotmail.com>
+Date:   Tue Jul 5 08:00:01 2022 -0500
+
+    Revert "video 124"
+    
+    This reverts commit 407a14fbd0f7a4c2a3860a735cf7e5c582dd5ce4.
+
+[33mcommit 407a14fbd0f7a4c2a3860a735cf7e5c582dd5ce4[m
+Author: cristian villate <cristian_17v@hotmail.com>
+Date:   Wed Jun 29 20:36:10 2022 -0500
+
+    video 124
+
+[33mcommit 5175b47a800345276a6dc3d62388c7ce87a31258[m
+Author: cristian villate <cristian_17v@hotmail.com>
+Date:   Wed Jun 29 19:37:28 2022 -0500
+
+    prueba
+
+[33mcommit af8718eec48b352a30b9dcb8f8aa6a7631f8eb29[m
+Author: cristian villate <cristian_17v@hotmail.com>
+Date:   Wed Jun 29 17:07:17 2022 -0500
+
+    hooks
+
+[33mcommit 024973ebfdfcc6221ad0409329e5a6f0baae2dd8[m
+Author: cristian villate <cristian_17v@hotmail.com>
+Date:   Wed Jun 29 15:22:30 2022 -0500
+
+    hooks
+
+[33mcommit 2df7bf81f32bc45d1fc7304f8045ae44b33b9aad[m
+Author: cristian villate <cristian_17v@hotmail.com>
+Date:   Wed Jun 29 12:15:34 2022 -0500
+
+    commit
+
+[33mcommit 4e67944e452a4c7cf8fdbe0782ec31dd4d61dab1[m
+Author: cristian villate <cristian_17v@hotmail.com>
+Date:   Wed Jun 29 12:02:32 2022 -0500
+
+    firts
