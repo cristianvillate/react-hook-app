@@ -26,7 +26,7 @@ export const TodoAdd = ({onNewTodo}) => {
         <form onSubmit={onFormSubmit}>
             <input 
             type="text" 
-            placeholder="que hay que hacer"
+            placeholder="ingresa tarea"
             className="form-control" 
             name="description" 
             value={description} 
